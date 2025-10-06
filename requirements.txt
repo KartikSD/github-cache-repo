@@ -1,0 +1,5 @@
+grpcio==1.75.1
+lalsuite==7.26
+catboost==1.2
+torch==2.8.0
+ray==2.9.0
